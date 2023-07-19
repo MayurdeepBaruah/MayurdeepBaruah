@@ -1,40 +1,30 @@
 <!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Mayurdeep Baruah+🥲;Frontend+Developer+🥺;Bootstrap+|+Javascript+|+JQuery+|+HTML+|+CSS🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
   <a>
 </h1>
 
 <h3 align="center">A passionate self taught Web Developer, who wants to explore every tech stack 🇮🇳</h3>
 -->
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/231945498-5153e674-2687-4627-acb5-43ea3fb2a3a8.png)](https://vatsalsinghkv.vercel.app/)
-
 
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[Shaheed Sukhdev College of Business Studeis, University of Delhi](https://sscbs.du.ac.in/)**
+- 👩🏻‍💻 I am a fresher.
 - ☀️ Contributing to **[open-source projects](https://github.com/issues?q=author%3Avatsalsinghkv+)** (Open Source is always fun)
 - 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
 - 📖 I’m currently learning **CSS Animations & Data Structures and Algorithms**
     
 <h2>Domain of interests</h2>
     
-- 💻 Full-stack Web Develppment
-- 📱 Mobile Development
-- 👽 Cyber Security
-- 🦾 Artificial Intelligence
+- 💻 Full-stack Web Develppment in Python
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,jquery,bootstrap" alt="programming languages" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
-</p>  
+
     
 <h2></h2>
 
