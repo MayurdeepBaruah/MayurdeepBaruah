@@ -16,7 +16,7 @@
     
 <h2>Domain of interests</h2>
     
-- 💻 Full-stack Web Develppment in Python
+- 💻 Full-stack Web Development in Python
   
 <h2>Languages & Tools</h2>
 <p align="center">
